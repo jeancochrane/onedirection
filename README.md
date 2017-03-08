@@ -1,5 +1,8 @@
-# septa_tracker
-A web app for geolocating SEPTA buses and trolleys in Philadelphia.
+# One Direction
+
+SEPTA's routelines are jumbled up and have no direction. Let's fix it.
+
+*Currently under development.*
 
 ##Development
 Requires Python 2.7, pip, node.js, and npm.
